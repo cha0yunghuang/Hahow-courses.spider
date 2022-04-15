@@ -13,4 +13,4 @@
 
 3. Install openpyxl: `pip3 install openpyxl`
 
-4. Run the Python script
+4. Run the script `Hahow-CoursesSpider.py`
